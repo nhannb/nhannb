@@ -3,11 +3,12 @@
 
 - 👨‍💻 All of my projects are available at [https://bitforge.dev](https://bitforge.dev)
 
-- 📝 I regularly write articles on [many things](many things)
+- 📝 I regularly write articles on [https://bitforge.dev](https://bitforge.dev)
 
 - 📫 How to reach me **nguyenbanhan@gmail.com**
 
-- 📄 Know about my experiences [I work like God](I work like God)
+- 📄 Know about my experiences [https://bitforge.dev](https://bitforge.dev)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
