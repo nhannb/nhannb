@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhan Nguyen</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">WIP</h3>
 
 - 👨‍💻 All of my projects are available at [https://bitforge.dev](https://bitforge.dev)
 
